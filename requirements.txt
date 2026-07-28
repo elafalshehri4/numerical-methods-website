@@ -1,8 +1,0 @@
-streamlit
-streamlit-card
-numpy
-pandas
-matplotlib
-sympy
-pyarrow
-openpyxl
